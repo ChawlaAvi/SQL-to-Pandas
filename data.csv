@@ -1,0 +1,11 @@
+ID,first_name,last_name,gender,salary,level,date_of_joining
+1,Peter,Sanders,M,10000,2,10/03/20
+2,Julie,Miller,F,12000,2,14/01/20
+3,Rachel,Bray,F,9000,1,09/03/20
+4,Priti,Agarwal,F,10000,2,01/03/20
+5,David,Cox,M,5000,1,28/05/20
+6,Helly,Raval,F,8000,1,19/06/20
+7,John,Frank,M,13000,3,12/11/19
+8,Mark,Franklin,M,13500,3,12/11/19
+9,Cristina,Rel,F,15000,4,22/09/19
+10,Brock,Murray,M,11000,2,13/02/20
